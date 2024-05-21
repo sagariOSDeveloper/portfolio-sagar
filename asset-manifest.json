@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/portfolio-sagar/static/css/main.de9347d7.css",
+    "main.js": "/portfolio-sagar/static/js/main.c1927260.js",
+    "static/js/787.512dd3f2.chunk.js": "/portfolio-sagar/static/js/787.512dd3f2.chunk.js",
+    "index.html": "/portfolio-sagar/index.html",
+    "main.de9347d7.css.map": "/portfolio-sagar/static/css/main.de9347d7.css.map",
+    "main.c1927260.js.map": "/portfolio-sagar/static/js/main.c1927260.js.map",
+    "787.512dd3f2.chunk.js.map": "/portfolio-sagar/static/js/787.512dd3f2.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.de9347d7.css",
+    "static/js/main.c1927260.js"
+  ]
+}
