@@ -21,10 +21,13 @@ function App() {
 	return (
 		<div className="App">
 			<Routes>
-				<Route path="/" element={<Homepage />} />
-				<Route path="/about" element={<About />} />
-				<Route path="/projects" element={<Projects />} />
-				<Route path="/contact" element={<Contact />} />
+				<Route path="/portfolio-sagar/" element={<Homepage />} />
+				<Route path="/portfolio-sagar/about" element={<About />} />
+				<Route
+					path="/portfolio-sagar/projects"
+					element={<Projects />}
+				/>
+				<Route path="/portfolio-sagar/contact" element={<Contact />} />
 				<Route path="*" element={<Notfound />} />
 			</Routes>
 		</div>

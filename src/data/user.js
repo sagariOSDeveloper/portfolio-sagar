@@ -3,7 +3,7 @@ const INFO = {
 		title: "iOS | Web | Full Stack",
 		name: "Sagar Ali",
 		email: "sagar18.iosdeveloper@gmail.com",
-		logo: "../sagar-ali.JPG",
+		logo: "/portfolio-sagar/sagar.png",
 	},
 
 	socials: {
@@ -23,8 +23,8 @@ const INFO = {
 	},
 
 	about: {
-		title: "I’m Sagar Ali. I live in Karachi Pakistan, where I design the future.",
-		description: `I've had the privilege of contributing to numerous high-end iOS mobile app projects and high-end web applications. My expertise lies in creating seamless user experiences that elevate brands and engage audiences.
+		title: "About Me.",
+		description: `I’m Sagar Ali a full stack software engineer from karachi, where I design the future. I've had the privilege of contributing to numerous high-end iOS mobile app projects and high-end web applications. My expertise lies in creating seamless user experiences that elevate brands and engage audiences.
 			
 			Passionate about leveraging cutting-edge technologies, I'm dedicated to delivering impactful digital solutions that exceed expectations. If you're looking for a skilled developer to bring your project vision to life, let's collaborate and turn ideas into reality.`,
 	},
