@@ -41,12 +41,34 @@ const About = () => {
 					<div className="about-container">
 						<div className="about-main">
 							<div className="about-right-side">
-								<div className="title about-title">
+								<div className="about-title">
 									{INFO.about.title}
 								</div>
 
 								<div className="subtitle about-subtitle">
-									{INFO.about.description}
+									I am a highly skilled Full-Stack Software
+									Engineer based in London, specializing in
+									designing and developing innovative digital
+									solutions. With extensive experience in
+									high-end iOS mobile applications and web
+									development, I focus on creating seamless,
+									user-centric experiences that enhance brands
+									and engage audiences.
+									<br />
+									<br /> Passionate about leveraging
+									cutting-edge technologies, I am committed to
+									delivering scalable, high-performance
+									applications that exceed expectations. My
+									expertise spans the entire software
+									development lifecycle, from
+									conceptualization and architecture to
+									deployment and optimization. If you're
+									looking for a dedicated and results-driven
+									developer to bring your project to life,
+									<br />
+									<br />
+									let’s collaborate to turn your vision into
+									reality.
 								</div>
 							</div>
 
@@ -54,7 +76,7 @@ const About = () => {
 								<div className="about-image-container">
 									<div className="about-image-wrapper">
 										<img
-											src="/portfolio-sagar/about.jpg"
+											src="/portfolio-sagar/sagar-laptop.jpg"
 											alt="about"
 											className="about-image"
 										/>

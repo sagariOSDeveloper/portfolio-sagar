@@ -30,10 +30,16 @@
 }
 
 .about-title {
+	color: var(--primary-color);
+	font-family: var(--secondary-font);
+	font-size: 1.5rem;
+	font-weight: 700;
 	width: 100% !important;
 }
 
 .about-subtitle {
+	margin-top: 10px !important;
+	font-size: 1rem !important;
 	width: 80% !important;
 }
 
